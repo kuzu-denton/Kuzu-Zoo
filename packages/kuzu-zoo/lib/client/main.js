@@ -1,1 +1,1 @@
-//client entry point here
+import '../modules/index.js';
